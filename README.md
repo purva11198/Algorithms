@@ -1,3 +1,3 @@
 # Algorithms
 
-This repository has vvarious algorithms implemented in C language.
+This repository has various algorithms implemented in C language.
